@@ -1,4 +1,17 @@
 body{
-    background-color: blue; 
+    background-color: rgb(65, 113, 92); 
     color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40x;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
 }
